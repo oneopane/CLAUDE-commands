@@ -32,4 +32,4 @@ Update a CLAUDE.md file based on recent code changes.
 
 8. Commit the updated documentation:
    git add [path/to/CLAUDE.md]
-   git commit -m "docs: Update CLAUDE.md with recent changes"
+   git commit -m "docs: Update CLAUDE.md with recent changes. <PREVIOUS UPDATE DATE> -> <CURRENT UPDATE DATE>"
