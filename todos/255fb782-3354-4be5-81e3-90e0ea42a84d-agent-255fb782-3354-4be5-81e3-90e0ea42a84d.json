@@ -1,0 +1,38 @@
+[
+  {
+    "content": "Create Marker model and extensions (Marker struct, CMTime extensions)",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Add marker storage to VideoPlayerViewModel",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Implement marker visualization in ProgressBarView",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Add keyboard shortcuts for marker operations",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  },
+  {
+    "content": "Implement marker persistence and loading",
+    "status": "completed",
+    "priority": "medium",
+    "id": "5"
+  },
+  {
+    "content": "Update roadmap files and commit changes",
+    "status": "completed",
+    "priority": "low",
+    "id": "6"
+  }
+]

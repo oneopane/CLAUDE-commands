@@ -1,0 +1,38 @@
+[
+  {
+    "content": "Fix duplicate key codes in ShortcutConfiguration",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Add proper event monitoring with both local and global monitors",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Fix modifier conversion between NSEvent and SwiftUI",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Add focus management to ensure keyboard events are received",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Fix ShortcutField global monitor implementation",
+    "status": "completed",
+    "priority": "medium",
+    "id": "5"
+  },
+  {
+    "content": "Add conflict detection for shortcuts",
+    "status": "completed",
+    "priority": "medium",
+    "id": "6"
+  }
+]

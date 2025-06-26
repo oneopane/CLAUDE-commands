@@ -1,0 +1,26 @@
+[
+  {
+    "content": "Analyze current marker auto-save implementation in VideoPlayerViewModel",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Ensure metadata file is created only after first user-added marker (not start marker)",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Fix auto-save to trigger on all marker operations (add/delete/update)",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Test metadata file creation and updates",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  }
+]

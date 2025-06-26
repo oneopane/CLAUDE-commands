@@ -1,0 +1,56 @@
+[
+  {
+    "content": "Update Phase 1 with AVPlayerView implementation and enhanced error handling",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Update Phase 2 with improved progress bar implementation",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Update Phase 3 with performance-optimized marker rendering",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Update Phase 4 with UUID-based seek queuing system",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Update Phase 5 with native SwiftUI modals and keyboard shortcuts",
+    "status": "completed",
+    "priority": "medium",
+    "id": "5"
+  },
+  {
+    "content": "Update Phase 6 with migration strategy for data persistence",
+    "status": "completed",
+    "priority": "medium",
+    "id": "6"
+  },
+  {
+    "content": "Update Phase 7 with performance monitoring and metrics",
+    "status": "completed",
+    "priority": "medium",
+    "id": "7"
+  },
+  {
+    "content": "Update Phase 8 with final integration improvements",
+    "status": "completed",
+    "priority": "low",
+    "id": "8"
+  },
+  {
+    "content": "Update roadmap outline with architectural improvements",
+    "status": "completed",
+    "priority": "high",
+    "id": "9"
+  }
+]

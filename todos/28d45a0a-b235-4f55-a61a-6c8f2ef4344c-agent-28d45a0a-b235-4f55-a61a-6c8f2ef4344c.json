@@ -1,0 +1,44 @@
+[
+  {
+    "content": "Create AppState for centralized state management",
+    "status": "in_progress",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Create Interactors for business logic layer",
+    "status": "pending",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Implement Repository pattern for data access",
+    "status": "pending",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Refactor dependency injection to use Environment",
+    "status": "pending",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Update Views to be stateless functions of AppState",
+    "status": "pending",
+    "priority": "medium",
+    "id": "5"
+  },
+  {
+    "content": "Implement action-based state mutations",
+    "status": "pending",
+    "priority": "medium",
+    "id": "6"
+  },
+  {
+    "content": "Add consistent error handling",
+    "status": "pending",
+    "priority": "medium",
+    "id": "7"
+  }
+]

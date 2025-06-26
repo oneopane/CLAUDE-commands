@@ -1,0 +1,38 @@
+[
+  {
+    "content": "Update entitlements to add read-write permission",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Refactor PermissionVerificationManager to use security-scoped bookmarks properly",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Update permission request flow to request specific directories",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Implement bookmark restoration on app launch",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  },
+  {
+    "content": "Add fallback to Application Support if permission denied",
+    "status": "completed",
+    "priority": "medium",
+    "id": "5"
+  },
+  {
+    "content": "Test the permission flow and marker saving",
+    "status": "completed",
+    "priority": "high",
+    "id": "6"
+  }
+]

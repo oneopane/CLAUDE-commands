@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Explore codebase structure and understand existing framework",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Implement IPW estimator",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Implement AIPW estimator",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Add tests for both estimators",
+    "status": "in_progress",
+    "priority": "medium",
+    "id": "4"
+  },
+  {
+    "content": "Export estimators in main module",
+    "status": "pending",
+    "priority": "medium",
+    "id": "5"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Research current keyboard shortcuts implementation and structure",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Research current video player controls and volume handling",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Research current time display and marker system",
+    "status": "completed",
+    "priority": "medium",
+    "id": "3"
+  },
+  {
+    "content": "Research current video loading and autoplay behavior",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  },
+  {
+    "content": "Plan consolidated shortcuts configuration structure",
+    "status": "in_progress",
+    "priority": "high",
+    "id": "5"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Pass openFilePicker function from ContentView to KeyboardHandlingView",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Update KeyboardHandlingView init to accept openFilePicker function",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Update ShortcutRegistry to accept and use openFilePicker function",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Remove unused showingFilePicker state and parameters",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  },
+  {
+    "content": "Test the keyboard shortcut functionality",
+    "status": "completed",
+    "priority": "high",
+    "id": "5"
+  }
+]

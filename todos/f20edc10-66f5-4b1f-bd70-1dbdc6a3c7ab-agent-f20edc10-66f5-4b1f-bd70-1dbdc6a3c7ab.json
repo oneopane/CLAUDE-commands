@@ -1,0 +1,20 @@
+[
+  {
+    "content": "Fix handleSelectedURL to ensure proper directory access when opening files",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Update security scope handling in VideoDirectoryManager.scanDirectory",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Test the fix by opening a video file and verifying directory navigation works",
+    "status": "completed",
+    "priority": "medium",
+    "id": "3"
+  }
+]

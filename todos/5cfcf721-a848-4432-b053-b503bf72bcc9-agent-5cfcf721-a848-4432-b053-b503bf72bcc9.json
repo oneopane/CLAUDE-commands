@@ -1,0 +1,20 @@
+[
+  {
+    "content": "Implement Memo Transcription Pipeline (PKM-41)",
+    "status": "pending",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Create Memo Parser Agent (PKM-42)",
+    "status": "pending",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Implement Parsing Template Management (PKM-43)",
+    "status": "pending",
+    "priority": "high",
+    "id": "3"
+  }
+]

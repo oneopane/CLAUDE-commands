@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Add all missing shortcuts to conflict detection (including rating shortcuts 1-5)",
+    "status": "completed",
+    "priority": "medium",
+    "id": "1"
+  },
+  {
+    "content": "Include volume controls in conflict detection",
+    "status": "completed",
+    "priority": "medium",
+    "id": "2"
+  },
+  {
+    "content": "Include performance overlay toggle in conflict detection",
+    "status": "completed",
+    "priority": "medium",
+    "id": "3"
+  },
+  {
+    "content": "Test conflict detection comprehensively",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  },
+  {
+    "content": "Add UI warnings for conflicts",
+    "status": "completed",
+    "priority": "medium",
+    "id": "5"
+  }
+]

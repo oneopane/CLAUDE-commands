@@ -1,0 +1,44 @@
+[
+  {
+    "content": "Create ScrubConfiguration model with customizable key bindings and timing",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Enhanced FrameTime utilities with robust frame rate handling",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Create NavigationViewModel for centralized navigation logic",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Enhance KeyboardShortcut system to support scrub configuration",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Create TimeDisplay component with frame-accurate display",
+    "status": "completed",
+    "priority": "medium",
+    "id": "5"
+  },
+  {
+    "content": "Integrate NavigationViewModel into ContentView and PlayerViewModel",
+    "status": "completed",
+    "priority": "medium",
+    "id": "6"
+  },
+  {
+    "content": "Test frame accuracy and verify all user verification steps",
+    "status": "completed",
+    "priority": "medium",
+    "id": "7"
+  }
+]

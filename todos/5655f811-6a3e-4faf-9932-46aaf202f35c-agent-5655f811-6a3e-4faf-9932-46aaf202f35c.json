@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Gather clarifying questions for scaffolding",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Create phase-0.md with scaffolding plan",
+    "status": "in_progress",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Generate minimal stub files structure",
+    "status": "pending",
+    "priority": "medium",
+    "id": "3"
+  },
+  {
+    "content": "Research BAPL cluster requirements",
+    "status": "pending",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Design storage abstraction for local->cloud migration",
+    "status": "pending",
+    "priority": "high",
+    "id": "5"
+  }
+]

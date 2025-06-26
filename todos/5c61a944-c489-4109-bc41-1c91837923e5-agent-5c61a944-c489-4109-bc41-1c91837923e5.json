@@ -1,0 +1,44 @@
+[
+  {
+    "content": "Phase 2.1: Optimize Keyboard Shortcut Registry - Implement proper caching for O(1) lookup",
+    "status": "completed",
+    "priority": "high",
+    "id": "phase2-task1"
+  },
+  {
+    "content": "Phase 2.2: Refactor Complex Views - Extract modular components from ContentView",
+    "status": "pending",
+    "priority": "medium",
+    "id": "phase2-task2"
+  },
+  {
+    "content": "Phase 3.1: Implement Marker Pagination - Support 10,000+ markers with lazy loading",
+    "status": "pending",
+    "priority": "high",
+    "id": "phase3-task1"
+  },
+  {
+    "content": "Phase 3.2: Complete Shortcut Conflict Detection - Add comprehensive conflict detection",
+    "status": "pending",
+    "priority": "medium",
+    "id": "phase3-task2"
+  },
+  {
+    "content": "Phase 4.1: Optimize Performance Monitoring - Implement Combine-based debounced updates",
+    "status": "pending",
+    "priority": "medium",
+    "id": "phase4-task1"
+  },
+  {
+    "content": "Phase 4.2: Memory Optimization - Implement LRU cache and resource cleanup",
+    "status": "pending",
+    "priority": "medium",
+    "id": "phase4-task2"
+  },
+  {
+    "content": "Phase 4.3: Error Handling Improvements - Convert validation to throw errors",
+    "status": "pending",
+    "priority": "low",
+    "id": "phase4-task3"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "content": "Debug why permission request isn't showing at app launch",
+    "status": "in_progress",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Fix the permission request flow",
+    "status": "pending",
+    "priority": "high",
+    "id": "2"
+  }
+]

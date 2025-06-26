@@ -1,0 +1,26 @@
+[
+  {
+    "content": "Week 4: Implement FastAPI Collector Service with /policy, /trajectory, /health endpoints",
+    "status": "in_progress",
+    "priority": "high",
+    "id": "week4-fastapi-collector"
+  },
+  {
+    "content": "Week 4: Add schema compliance validation for trajectory and policy registration",
+    "status": "pending",
+    "priority": "high",
+    "id": "week4-schema-validation"
+  },
+  {
+    "content": "Week 4: Create Pydantic schemas for request/response models",
+    "status": "pending",
+    "priority": "high",
+    "id": "week4-pydantic-schemas"
+  },
+  {
+    "content": "Week 4: Implement database integration with async operations",
+    "status": "pending",
+    "priority": "high",
+    "id": "week4-db-integration"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "content": "Remove 60-marker limit from addMarker() method",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Remove marker limit from UI components",
+    "status": "completed",
+    "priority": "medium",
+    "id": "2"
+  },
+  {
+    "content": "Update any documentation or comments about the limit",
+    "status": "completed",
+    "priority": "low",
+    "id": "3"
+  }
+]

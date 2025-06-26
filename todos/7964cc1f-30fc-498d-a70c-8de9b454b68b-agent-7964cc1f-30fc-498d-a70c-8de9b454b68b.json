@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Phase 3.1: Implement Marker Pagination (16 hours) - Design and implement lazy loading for 10,000+ markers",
+    "status": "completed",
+    "priority": "high",
+    "id": "phase3-task1"
+  },
+  {
+    "content": "Phase 3.2: Complete Shortcut Conflict Detection (8 hours) - Add comprehensive conflict detection for all shortcuts",
+    "status": "pending",
+    "priority": "medium",
+    "id": "phase3-task2"
+  },
+  {
+    "content": "Phase 4.1: Optimize Performance Monitoring (8 hours) - Implement debounced updates and adaptive sampling",
+    "status": "pending",
+    "priority": "medium",
+    "id": "phase4-task1"
+  },
+  {
+    "content": "Phase 4.2: Memory Optimization (8 hours) - Implement LRU cache and memory pressure handling",
+    "status": "pending",
+    "priority": "medium",
+    "id": "phase4-task2"
+  },
+  {
+    "content": "Phase 4.3: Error Handling Improvements (8 hours) - Convert validation to throw errors with recovery suggestions",
+    "status": "pending",
+    "priority": "low",
+    "id": "phase4-task3"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "content": "Rename MarkerDetailsView to MarkerManagementView and update structure",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Implement scrollable marker list with timestamp, rating, labels, and delete button",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Add marker selection and navigation functionality",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Implement current segment marker highlighting",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  },
+  {
+    "content": "Add edit form section for selected marker",
+    "status": "completed",
+    "priority": "high",
+    "id": "5"
+  },
+  {
+    "content": "Update modal size and layout",
+    "status": "completed",
+    "priority": "medium",
+    "id": "6"
+  },
+  {
+    "content": "Update all references in ContentView",
+    "status": "completed",
+    "priority": "high",
+    "id": "7"
+  },
+  {
+    "content": "Test keyboard shortcut and all functionality",
+    "status": "completed",
+    "priority": "medium",
+    "id": "8"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "content": "Create roadmap directory structure",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Write Phase 1: Core Video Player Foundation",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Write Phase 2: Minimalist Progress Bar UI",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Write Phase 3: Marker System",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Write Phase 4: Custom Scrubbing System",
+    "status": "completed",
+    "priority": "high",
+    "id": "5"
+  },
+  {
+    "content": "Write Phase 5: Tabbed Settings Modal & Keyboard Shortcuts",
+    "status": "completed",
+    "priority": "high",
+    "id": "6"
+  },
+  {
+    "content": "Write Phase 6: Data Persistence & Directory Management",
+    "status": "completed",
+    "priority": "high",
+    "id": "7"
+  },
+  {
+    "content": "Write Phase 7: Polish & Hardware Acceleration",
+    "status": "completed",
+    "priority": "medium",
+    "id": "8"
+  },
+  {
+    "content": "Write Phase 8: Future Features (Extraction)",
+    "status": "completed",
+    "priority": "low",
+    "id": "9"
+  }
+]

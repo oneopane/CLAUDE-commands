@@ -1,0 +1,68 @@
+[
+  {
+    "content": "Create RFC 8174-style implementation rules document",
+    "status": "completed",
+    "priority": "high",
+    "id": "phase-setup"
+  },
+  {
+    "content": "Implement Phase 1: Core Video Player Foundation",
+    "status": "pending",
+    "priority": "high",
+    "id": "phase-1-impl"
+  },
+  {
+    "content": "Verify Phase 1 user steps and functionality",
+    "status": "pending",
+    "priority": "high",
+    "id": "phase-1-verify"
+  },
+  {
+    "content": "Commit Phase 1 to git",
+    "status": "pending",
+    "priority": "medium",
+    "id": "phase-1-commit"
+  },
+  {
+    "content": "Implement Phase 2: Marker System",
+    "status": "pending",
+    "priority": "high",
+    "id": "phase-2-impl"
+  },
+  {
+    "content": "Verify Phase 2 user steps and functionality",
+    "status": "pending",
+    "priority": "high",
+    "id": "phase-2-verify"
+  },
+  {
+    "content": "Commit Phase 2 to git",
+    "status": "pending",
+    "priority": "medium",
+    "id": "phase-2-commit"
+  },
+  {
+    "content": "Implement Phase 3: Custom Scrubbing & Navigation",
+    "status": "pending",
+    "priority": "high",
+    "id": "phase-3-impl"
+  },
+  {
+    "content": "Verify Phase 3 user steps and functionality",
+    "status": "pending",
+    "priority": "high",
+    "id": "phase-3-verify"
+  },
+  {
+    "content": "Commit Phase 3 to git",
+    "status": "pending",
+    "priority": "medium",
+    "id": "phase-3-commit"
+  },
+  {
+    "content": "Maintain progress.md file with implementation summary",
+    "status": "pending",
+    "priority": "medium",
+    "id": "progress-tracking"
+  }
+]

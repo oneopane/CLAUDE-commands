@@ -1,0 +1,14 @@
+[
+  {
+    "content": "Update .onChange handler to request directory permission on scan failure",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Test the fix by loading a video from a new directory",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  }
+]

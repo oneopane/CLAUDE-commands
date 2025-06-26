@@ -1,0 +1,20 @@
+[
+  {
+    "content": "Explore keyboard handling in the codebase to understand current structure",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Add logging for key presses in keyboard event handlers",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Add logging for when shortcuts are triggered",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  }
+]

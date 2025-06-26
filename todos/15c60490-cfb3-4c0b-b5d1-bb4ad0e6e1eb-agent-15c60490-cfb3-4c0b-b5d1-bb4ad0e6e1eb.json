@@ -1,0 +1,38 @@
+[
+  {
+    "content": "Update DefaultConfiguration to remove timestamp directory",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Remove manual export/import menu commands from SwiftMediaApp",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Remove manual export/import handlers from ContentView",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Update ProjectManager to auto-create projects for videos",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Update ImportExportManager to make formatTimestamp public",
+    "status": "completed",
+    "priority": "medium",
+    "id": "5"
+  },
+  {
+    "content": "Deprecate MarkerPersistence in favor of ProjectManager",
+    "status": "completed",
+    "priority": "medium",
+    "id": "6"
+  }
+]

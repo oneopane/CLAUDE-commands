@@ -1,0 +1,26 @@
+[
+  {
+    "content": "Create create-new-phase.md command file",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Design interactive prompts for phase creation",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Include automatic phase number detection",
+    "status": "completed",
+    "priority": "medium",
+    "id": "3"
+  },
+  {
+    "content": "Add roadmap-outline.md update functionality",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "content": "Add bookmark entitlements to SwiftMedia.entitlements",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Modify openFilePicker to support both file and directory selection",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Enhance VideoDirectoryManager bookmark handling",
+    "status": "completed",
+    "priority": "medium",
+    "id": "3"
+  },
+  {
+    "content": "Add user guidance for directory access",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  }
+]

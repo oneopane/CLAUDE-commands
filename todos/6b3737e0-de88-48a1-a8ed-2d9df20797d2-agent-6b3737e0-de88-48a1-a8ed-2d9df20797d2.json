@@ -1,0 +1,110 @@
+[
+  {
+    "content": "Create new folder structure for organized codebase",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Move video-related files to Views/Video/ folder",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Move marker-related files to Views/Markers/ folder",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Move settings-related files to Views/Settings/ folder",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Move keyboard-related files to Views/Keyboard/ folder",
+    "status": "completed",
+    "priority": "high",
+    "id": "5"
+  },
+  {
+    "content": "Move feedback views to Views/Feedback/ folder",
+    "status": "completed",
+    "priority": "medium",
+    "id": "6"
+  },
+  {
+    "content": "Move performance views to Views/Performance/ folder",
+    "status": "completed",
+    "priority": "medium",
+    "id": "7"
+  },
+  {
+    "content": "Create and move files to ViewModels/ folder",
+    "status": "completed",
+    "priority": "high",
+    "id": "8"
+  },
+  {
+    "content": "Create Extensions/ folder and move extension files",
+    "status": "completed",
+    "priority": "medium",
+    "id": "9"
+  },
+  {
+    "content": "Create App/ folder and move main app files",
+    "status": "completed",
+    "priority": "medium",
+    "id": "10"
+  },
+  {
+    "content": "Reorganize Managers/ folder by subdomain",
+    "status": "completed",
+    "priority": "medium",
+    "id": "11"
+  },
+  {
+    "content": "Move DefaultShortcuts.swift to Utils/ folder",
+    "status": "completed",
+    "priority": "low",
+    "id": "12"
+  },
+  {
+    "content": "Create Utils/Performance/ folder and reorganize performance utilities",
+    "status": "completed",
+    "priority": "low",
+    "id": "13"
+  },
+  {
+    "content": "Split SettingsView.swift into separate view and view model files",
+    "status": "completed",
+    "priority": "high",
+    "id": "14"
+  },
+  {
+    "content": "Split Marker.swift into separate model files",
+    "status": "completed",
+    "priority": "medium",
+    "id": "15"
+  },
+  {
+    "content": "Split Project.swift into separate model files",
+    "status": "completed",
+    "priority": "medium",
+    "id": "16"
+  },
+  {
+    "content": "Update import statements in all affected files",
+    "status": "completed",
+    "priority": "high",
+    "id": "17"
+  },
+  {
+    "content": "Test build to ensure all files are properly included",
+    "status": "completed",
+    "priority": "high",
+    "id": "18"
+  }
+]

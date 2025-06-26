@@ -1,0 +1,38 @@
+[
+  {
+    "content": "Create ExtractionModalView UI component",
+    "status": "in_progress",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Add extraction modal action to ShortcutDefinition enum",
+    "status": "pending",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Add default shortcut to DefaultShortcuts",
+    "status": "pending",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Register shortcut in ShortcutRegistry",
+    "status": "pending",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Add modal state to VideoPlayerViewModel",
+    "status": "pending",
+    "priority": "high",
+    "id": "5"
+  },
+  {
+    "content": "Integrate modal into ContentView",
+    "status": "pending",
+    "priority": "high",
+    "id": "6"
+  }
+]

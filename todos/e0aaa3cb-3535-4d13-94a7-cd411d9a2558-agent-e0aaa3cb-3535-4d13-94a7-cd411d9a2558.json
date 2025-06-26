@@ -1,0 +1,38 @@
+[
+  {
+    "content": "Analyze Voice Memo Processing System project to suggest additional issues needed",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Create dependency graph structure (graph.json) for all entities",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Generate Mermaid visualization of dependencies",
+    "status": "completed",
+    "priority": "medium",
+    "id": "3"
+  },
+  {
+    "content": "Create living document structure with initiative and project plans",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Set up tracking with Linear IDs and context/current.json",
+    "status": "in_progress",
+    "priority": "medium",
+    "id": "5"
+  },
+  {
+    "content": "Update index.md with navigation structure",
+    "status": "pending",
+    "priority": "medium",
+    "id": "6"
+  }
+]

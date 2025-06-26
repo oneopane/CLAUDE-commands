@@ -1,0 +1,38 @@
+[
+  {
+    "content": "Add @MainActor annotation to VideoPlayerViewModel",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Clean and rebuild the project",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Fix missing properties in ContentView",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Fix publishing changes warnings",
+    "status": "pending",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Run tests to verify no regressions",
+    "status": "completed",
+    "priority": "medium",
+    "id": "5"
+  },
+  {
+    "content": "Verify 4K video performance",
+    "status": "pending",
+    "priority": "medium",
+    "id": "6"
+  }
+]

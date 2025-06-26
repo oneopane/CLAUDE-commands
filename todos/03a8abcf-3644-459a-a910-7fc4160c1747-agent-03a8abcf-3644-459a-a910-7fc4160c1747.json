@@ -1,0 +1,44 @@
+[
+  {
+    "content": "Create linear/ directory structure",
+    "status": "completed",
+    "priority": "high",
+    "id": "6"
+  },
+  {
+    "content": "Implement Linear command files",
+    "status": "completed",
+    "priority": "high",
+    "id": "7"
+  },
+  {
+    "content": "Create graph visualization system",
+    "status": "completed",
+    "priority": "medium",
+    "id": "8"
+  },
+  {
+    "content": "Create .claude/linear/ data structure",
+    "status": "completed",
+    "priority": "high",
+    "id": "9"
+  },
+  {
+    "content": "Implement init-initiative.md command",
+    "status": "completed",
+    "priority": "high",
+    "id": "10"
+  },
+  {
+    "content": "Implement work-context.md command",
+    "status": "completed",
+    "priority": "high",
+    "id": "11"
+  },
+  {
+    "content": "Implement graph visualization script",
+    "status": "completed",
+    "priority": "medium",
+    "id": "12"
+  }
+]

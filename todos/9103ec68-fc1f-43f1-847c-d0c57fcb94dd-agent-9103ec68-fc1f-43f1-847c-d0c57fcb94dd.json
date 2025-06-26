@@ -1,0 +1,50 @@
+[
+  {
+    "content": "Create VideoMetadata model with Codable support",
+    "status": "completed",
+    "priority": "high",
+    "id": "metadata_model"
+  },
+  {
+    "content": "Create MetadataManager service with auto-save/load",
+    "status": "completed",
+    "priority": "high",
+    "id": "metadata_manager"
+  },
+  {
+    "content": "Integrate auto-export into MarkerViewModel",
+    "status": "completed",
+    "priority": "medium",
+    "id": "integrate_export"
+  },
+  {
+    "content": "Integrate auto-import into PlayerViewModel",
+    "status": "completed",
+    "priority": "medium",
+    "id": "integrate_import"
+  },
+  {
+    "content": "Wire up MetadataManager in ContentView",
+    "status": "completed",
+    "priority": "high",
+    "id": "wire_dependencies"
+  },
+  {
+    "content": "Test build and fix any compilation errors",
+    "status": "completed",
+    "priority": "high",
+    "id": "test_build"
+  },
+  {
+    "content": "Update progress.md with Phase 5 completion",
+    "status": "completed",
+    "priority": "high",
+    "id": "update_progress"
+  },
+  {
+    "content": "Commit Phase 5 changes",
+    "status": "completed",
+    "priority": "high",
+    "id": "commit_phase"
+  }
+]

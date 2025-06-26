@@ -1,0 +1,50 @@
+[
+  {
+    "content": "Configure project settings and add AVFoundation framework",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Create VideoPlayerViewModel class with AVPlayer setup",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Implement video file picker with NSOpenPanel",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Create VideoPlayerView using NSViewRepresentable",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Add play/pause functionality with space bar shortcut",
+    "status": "completed",
+    "priority": "medium",
+    "id": "5"
+  },
+  {
+    "content": "Implement time display with HH:MM:SS format and frame numbers",
+    "status": "completed",
+    "priority": "medium",
+    "id": "6"
+  },
+  {
+    "content": "Add frame rate detection from video metadata",
+    "status": "completed",
+    "priority": "medium",
+    "id": "7"
+  },
+  {
+    "content": "Test with various video formats and verify all functionality",
+    "status": "completed",
+    "priority": "medium",
+    "id": "8"
+  }
+]

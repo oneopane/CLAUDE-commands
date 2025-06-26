@@ -1,0 +1,56 @@
+[
+  {
+    "content": "Create and run script to remove trailing whitespace from all Swift files",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Create and run script to fix trailing newlines in all Swift files",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Use ast-grep to replace 'i' and 'j' variable names with descriptive names",
+    "status": "completed",
+    "priority": "medium",
+    "id": "3"
+  },
+  {
+    "content": "Fix line length violations (11 occurrences)",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  },
+  {
+    "content": "Fix large tuple violations",
+    "status": "completed",
+    "priority": "low",
+    "id": "5"
+  },
+  {
+    "content": "Fix multiple trailing closure violations",
+    "status": "completed",
+    "priority": "low",
+    "id": "6"
+  },
+  {
+    "content": "Fix other minor violations (redundant let, parameter alignment, etc.)",
+    "status": "completed",
+    "priority": "low",
+    "id": "7"
+  },
+  {
+    "content": "Address VideoPlayerViewModel length issues",
+    "status": "in_progress",
+    "priority": "medium",
+    "id": "8"
+  },
+  {
+    "content": "Run final SwiftLint check and verify all issues resolved",
+    "status": "pending",
+    "priority": "high",
+    "id": "9"
+  }
+]

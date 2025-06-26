@@ -1,0 +1,20 @@
+[
+  {
+    "content": "Optimize Performance Monitoring - Implement Combine-based debounced updates",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4.1"
+  },
+  {
+    "content": "Memory Optimization - Design and implement LRU cache for markers",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4.2"
+  },
+  {
+    "content": "Error Handling Improvements - Convert validation methods to throw errors",
+    "status": "in_progress",
+    "priority": "low",
+    "id": "4.3"
+  }
+]

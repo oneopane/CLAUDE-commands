@@ -1,0 +1,20 @@
+[
+  {
+    "content": "Create KeyboardShortcuts.swift for centralized shortcuts",
+    "status": "completed",
+    "priority": "high",
+    "id": "10"
+  },
+  {
+    "content": "Update ContentView to use centralized shortcuts",
+    "status": "completed",
+    "priority": "high",
+    "id": "11"
+  },
+  {
+    "content": "Update ScrubbingConfig to use centralized shortcuts",
+    "status": "completed",
+    "priority": "high",
+    "id": "12"
+  }
+]

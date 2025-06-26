@@ -1,0 +1,20 @@
+[
+  {
+    "content": "Fix hardcoded key detection in KeyboardHandlingView.swift to use configurable shortcuts",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Fix inconsistent default shortcuts in SettingsViewModel.swift",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Test directory navigation shortcuts functionality",
+    "status": "completed",
+    "priority": "medium",
+    "id": "3"
+  }
+]

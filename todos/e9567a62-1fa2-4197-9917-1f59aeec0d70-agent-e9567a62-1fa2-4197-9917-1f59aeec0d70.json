@@ -1,0 +1,8 @@
+[
+  {
+    "content": "Debug why forward seeking is still only moving 1 frame when playing",
+    "status": "completed",
+    "priority": "high",
+    "id": "debug-seek-issue"
+  }
+]

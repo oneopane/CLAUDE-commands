@@ -1,0 +1,74 @@
+[
+  {
+    "content": "Create debug_2025-01-23.md with comprehensive fix plan",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Fix Marker ID persistence bug",
+    "status": "pending",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Fix memory crash in checksum calculation",
+    "status": "pending",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Resolve conflicting shortcut configuration systems",
+    "status": "pending",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Fix keyboard shortcuts active behind modals",
+    "status": "pending",
+    "priority": "medium",
+    "id": "5"
+  },
+  {
+    "content": "Move ScrubConfigurationRow to Models folder",
+    "status": "pending",
+    "priority": "medium",
+    "id": "6"
+  },
+  {
+    "content": "Fix shortcut conflict detection",
+    "status": "pending",
+    "priority": "medium",
+    "id": "7"
+  },
+  {
+    "content": "Remove AnyView usage for performance",
+    "status": "pending",
+    "priority": "high",
+    "id": "8"
+  },
+  {
+    "content": "Optimize StateObject initialization",
+    "status": "pending",
+    "priority": "medium",
+    "id": "9"
+  },
+  {
+    "content": "Simplify binding chains in ScrubConfigurationTable",
+    "status": "pending",
+    "priority": "medium",
+    "id": "10"
+  },
+  {
+    "content": "Consolidate duplicate frame/time logic",
+    "status": "pending",
+    "priority": "low",
+    "id": "11"
+  },
+  {
+    "content": "Implement secure bookmark URL persistence",
+    "status": "pending",
+    "priority": "low",
+    "id": "12"
+  }
+]

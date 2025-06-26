@@ -1,0 +1,44 @@
+[
+  {
+    "content": "Check for Branch specification",
+    "status": "completed",
+    "priority": "high",
+    "id": "validate-1"
+  },
+  {
+    "content": "Check for Title (H1 heading)",
+    "status": "completed",
+    "priority": "high",
+    "id": "validate-2"
+  },
+  {
+    "content": "Check for Metadata section (Created, Status, Type)",
+    "status": "completed",
+    "priority": "high",
+    "id": "validate-3"
+  },
+  {
+    "content": "Check for Checkbox tasks",
+    "status": "completed",
+    "priority": "high",
+    "id": "validate-4"
+  },
+  {
+    "content": "Check for Progress tracking section",
+    "status": "completed",
+    "priority": "medium",
+    "id": "validate-5"
+  },
+  {
+    "content": "Fix missing required elements interactively",
+    "status": "completed",
+    "priority": "high",
+    "id": "validate-6"
+  },
+  {
+    "content": "Apply fixes and create final valid plan",
+    "status": "completed",
+    "priority": "high",
+    "id": "validate-7"
+  }
+]

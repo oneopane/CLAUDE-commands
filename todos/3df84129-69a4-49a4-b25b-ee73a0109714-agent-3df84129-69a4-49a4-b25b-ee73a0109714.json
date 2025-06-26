@@ -1,0 +1,68 @@
+[
+  {
+    "content": "Extract ScrubbingConfig.defaultConfigurations() static factory method to eliminate duplication",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Create centralized default shortcuts struct to replace hardcoded values",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Refactor KeyboardHandlingView onKeyPress handler - extract handleModifierShortcuts() method",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Refactor KeyboardHandlingView - extract handleSingleKeyShortcuts() method",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Refactor KeyboardHandlingView - extract handleScrubbingShortcuts() method",
+    "status": "completed",
+    "priority": "high",
+    "id": "5"
+  },
+  {
+    "content": "Consolidate conflict detection logic in ScrubbingTabView.swift",
+    "status": "completed",
+    "priority": "high",
+    "id": "6"
+  },
+  {
+    "content": "Extract ShortcutsManager from SettingsViewModel",
+    "status": "pending",
+    "priority": "medium",
+    "id": "7"
+  },
+  {
+    "content": "Extract ScrubbingConfigManager from SettingsViewModel",
+    "status": "pending",
+    "priority": "medium",
+    "id": "8"
+  },
+  {
+    "content": "Optimize duplicate detection algorithm with efficient Set-based approach",
+    "status": "completed",
+    "priority": "medium",
+    "id": "9"
+  },
+  {
+    "content": "Pre-compute shortcut lookup dictionary for O(1) key access",
+    "status": "completed",
+    "priority": "medium",
+    "id": "10"
+  },
+  {
+    "content": "Build the project and run tests to verify all refactoring maintains functionality",
+    "status": "completed",
+    "priority": "high",
+    "id": "11"
+  }
+]

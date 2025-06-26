@@ -1,0 +1,26 @@
+[
+  {
+    "content": "Run git status to see changed files",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Run git diff to review changes",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Run git log to see recent commits",
+    "status": "completed",
+    "priority": "medium",
+    "id": "3"
+  },
+  {
+    "content": "Add changed files and create commit",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  }
+]

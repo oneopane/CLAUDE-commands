@@ -1,0 +1,38 @@
+[
+  {
+    "content": "Create VideoDirectoryManager class for scanning and navigation",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Add navigation shortcuts to KeyboardShortcuts",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Integrate VideoDirectoryManager into ContentView",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Add keyboard handlers for navigation shortcuts",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  },
+  {
+    "content": "Update UI to show current video position",
+    "status": "completed",
+    "priority": "medium",
+    "id": "5"
+  },
+  {
+    "content": "Test navigation with various directory structures",
+    "status": "completed",
+    "priority": "low",
+    "id": "6"
+  }
+]

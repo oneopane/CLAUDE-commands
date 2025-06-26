@@ -1,0 +1,8 @@
+[
+  {
+    "content": "Update Taskfile.yml to use uv run for commands",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  }
+]

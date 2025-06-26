@@ -1,0 +1,26 @@
+[
+  {
+    "content": "Fetch all Linear issues in batches",
+    "status": "in_progress",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Create organized list of issue titles",
+    "status": "pending",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Analyze imported issues and identify Linear features to utilize",
+    "status": "pending",
+    "priority": "medium",
+    "id": "3"
+  },
+  {
+    "content": "Create plan for updating issues with Linear features",
+    "status": "pending",
+    "priority": "medium",
+    "id": "4"
+  }
+]

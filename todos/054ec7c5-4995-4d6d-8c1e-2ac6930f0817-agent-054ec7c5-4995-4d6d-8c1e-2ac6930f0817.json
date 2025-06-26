@@ -1,0 +1,20 @@
+[
+  {
+    "content": "Week 5: Create Experiment Runner (src/runner/executor.py) with generate_trajectories function",
+    "status": "completed",
+    "priority": "high",
+    "id": "week5-task1"
+  },
+  {
+    "content": "Week 5: Implement Policy Loader (src/runner/policies.py) with OpenAI integration support",
+    "status": "completed",
+    "priority": "high",
+    "id": "week5-task2"
+  },
+  {
+    "content": "Week 5: Create Generation CLI script (scripts/generate_runs.py)",
+    "status": "in_progress",
+    "priority": "high",
+    "id": "week5-task3"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "content": "Review Phase 1 requirements and create implementation plan",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Project Setup - Create macOS app and configure settings",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Implement Basic Video Player with AVPlayerView",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Create PlayerViewModel with video loading and playback",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Build Custom Progress Bar with seek functionality",
+    "status": "completed",
+    "priority": "high",
+    "id": "5"
+  },
+  {
+    "content": "Implement keyboard controls (spacebar play/pause)",
+    "status": "completed",
+    "priority": "medium",
+    "id": "6"
+  },
+  {
+    "content": "Add frame number calculation and display",
+    "status": "completed",
+    "priority": "medium",
+    "id": "7"
+  },
+  {
+    "content": "Test all functionality and verify requirements",
+    "status": "completed",
+    "priority": "high",
+    "id": "8"
+  },
+  {
+    "content": "Create progress.md and commit Phase 1",
+    "status": "completed",
+    "priority": "medium",
+    "id": "9"
+  }
+]

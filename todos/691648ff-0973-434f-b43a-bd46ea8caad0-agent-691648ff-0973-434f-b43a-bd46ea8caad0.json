@@ -1,0 +1,26 @@
+[
+  {
+    "content": "Analyze untracked files and create commit groups",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Commit analyze-code.md command",
+    "status": "completed",
+    "priority": "medium",
+    "id": "2"
+  },
+  {
+    "content": "Commit Linear integration commands",
+    "status": "completed",
+    "priority": "medium",
+    "id": "3"
+  },
+  {
+    "content": "Commit planning commands",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  }
+]

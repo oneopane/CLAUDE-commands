@@ -1,0 +1,8 @@
+[
+  {
+    "content": "Add fallback mechanism when file security scope doesn't grant directory access",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  }
+]

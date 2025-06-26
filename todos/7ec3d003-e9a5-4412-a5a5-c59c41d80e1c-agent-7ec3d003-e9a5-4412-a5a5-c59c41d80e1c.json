@@ -1,0 +1,44 @@
+[
+  {
+    "content": "Create roadmap directory structure",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Create Phase 1 - Core Video Player",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Create Phase 2 - Marker System",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Create Phase 3 - Scrubbing & Navigation",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Create Phase 4 - Modal System & UI Polish",
+    "status": "completed",
+    "priority": "medium",
+    "id": "5"
+  },
+  {
+    "content": "Create Phase 5 - Data Persistence",
+    "status": "completed",
+    "priority": "medium",
+    "id": "6"
+  },
+  {
+    "content": "Create Phase 6 - Future Features",
+    "status": "completed",
+    "priority": "low",
+    "id": "7"
+  }
+]

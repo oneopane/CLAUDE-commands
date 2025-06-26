@@ -1,0 +1,26 @@
+[
+  {
+    "content": "Add check in navigateToNextVideo to show error when no video is loaded",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Add check in navigateToPreviousVideo to show error when no video is loaded",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Update log messages to be clearer about empty video state",
+    "status": "completed",
+    "priority": "medium",
+    "id": "3"
+  },
+  {
+    "content": "Test the navigation shortcuts with and without loaded video",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  }
+]

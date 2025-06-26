@@ -1,0 +1,20 @@
+[
+  {
+    "content": "Refactor DefaultShortcuts to include modifier specifications",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Update ShortcutRegistry to use modifiers from DefaultShortcuts",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Ensure all shortcuts can have customizable modifiers",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  }
+]

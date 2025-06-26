@@ -1,0 +1,44 @@
+[
+  {
+    "content": "Update MarkerPersistence to use configured metadata directory",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Update VideoPlayerViewModel for automatic marker saving",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Remove project-related files",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Clean up SwiftMediaApp.swift",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Clean up ContentView.swift",
+    "status": "completed",
+    "priority": "high",
+    "id": "5"
+  },
+  {
+    "content": "Remove project-related UI components",
+    "status": "completed",
+    "priority": "medium",
+    "id": "6"
+  },
+  {
+    "content": "Update keyboard shortcuts",
+    "status": "completed",
+    "priority": "medium",
+    "id": "7"
+  }
+]

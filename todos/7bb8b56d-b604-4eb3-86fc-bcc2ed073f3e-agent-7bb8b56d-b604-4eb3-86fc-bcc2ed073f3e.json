@@ -1,0 +1,50 @@
+[
+  {
+    "content": "Create TabbedModal component for generic tab support",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Modify BaseModal to support optional tabs",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Create ScrubConfigurationTable for table-based scrub settings",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Update ShortcutsModal to use tabbed layout",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Implement key capture in ShortcutField",
+    "status": "completed",
+    "priority": "high",
+    "id": "5"
+  },
+  {
+    "content": "Create ShortcutConfiguration model with persistence",
+    "status": "completed",
+    "priority": "medium",
+    "id": "6"
+  },
+  {
+    "content": "Update KeyboardShortcutManager to use saved configurations",
+    "status": "completed",
+    "priority": "medium",
+    "id": "7"
+  },
+  {
+    "content": "Test complete keyboard shortcut customization",
+    "status": "completed",
+    "priority": "medium",
+    "id": "8"
+  }
+]

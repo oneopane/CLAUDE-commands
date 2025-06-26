@@ -1,0 +1,14 @@
+[
+  {
+    "content": "Commit update-claude-md.md fix",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Commit add-and-commit.md feature",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  }
+]

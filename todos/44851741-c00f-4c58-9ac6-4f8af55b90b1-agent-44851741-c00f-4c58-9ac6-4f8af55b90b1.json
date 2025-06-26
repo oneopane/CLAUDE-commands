@@ -1,0 +1,62 @@
+[
+  {
+    "content": "Create BaseModal.swift - reusable modal foundation with dimmed background, ESC handling, animations",
+    "status": "completed",
+    "priority": "high",
+    "id": "base-modal-system"
+  },
+  {
+    "content": "Create ModalViewModel.swift - centralized modal state management with enum-based modal types",
+    "status": "completed",
+    "priority": "high",
+    "id": "modal-viewmodel"
+  },
+  {
+    "content": "Create RatingView.swift - reusable 5-star rating component for marker editing",
+    "status": "completed",
+    "priority": "medium",
+    "id": "rating-component"
+  },
+  {
+    "content": "Create MarkerDetailModal.swift - complete marker editing interface with rating, label, delete",
+    "status": "completed",
+    "priority": "high",
+    "id": "marker-detail-modal"
+  },
+  {
+    "content": "Create ShortcutField.swift - key capture component with conflict detection",
+    "status": "completed",
+    "priority": "medium",
+    "id": "shortcut-field-component"
+  },
+  {
+    "content": "Create ShortcutsModal.swift - comprehensive shortcut configuration with organized sections",
+    "status": "completed",
+    "priority": "high",
+    "id": "shortcuts-modal"
+  },
+  {
+    "content": "Create Views/Modals/ and Views/Components/ directory structure",
+    "status": "completed",
+    "priority": "low",
+    "id": "create-directories"
+  },
+  {
+    "content": "Update ContentView.swift to integrate modal system with ZStack overlay",
+    "status": "completed",
+    "priority": "high",
+    "id": "integrate-contentview"
+  },
+  {
+    "content": "Add double-click handler to MarkerView to open detail modal",
+    "status": "completed",
+    "priority": "medium",
+    "id": "marker-double-click"
+  },
+  {
+    "content": "Add smooth animations, consistent styling, and accessibility improvements",
+    "status": "completed",
+    "priority": "low",
+    "id": "polish-animations"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "content": "Create .gitignore file for Swift Xcode project",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Remove ignored files from git tracking",
+    "status": "in_progress",
+    "priority": "high",
+    "id": "2"
+  }
+]

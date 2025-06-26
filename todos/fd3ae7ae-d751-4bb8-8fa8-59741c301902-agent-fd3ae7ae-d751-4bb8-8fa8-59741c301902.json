@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Review git status and identify modified files",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Analyze each modified Swift file for refactoring opportunities",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Identify code duplication and encapsulation opportunities",
+    "status": "completed",
+    "priority": "medium",
+    "id": "3"
+  },
+  {
+    "content": "Look for functions that can be merged or simplified",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  },
+  {
+    "content": "Write analysis results to timestamped file",
+    "status": "completed",
+    "priority": "high",
+    "id": "5"
+  }
+]

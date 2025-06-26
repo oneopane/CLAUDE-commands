@@ -1,0 +1,62 @@
+[
+  {
+    "content": "Analyze current codebase for data models and persistence requirements",
+    "status": "pending",
+    "priority": "high",
+    "id": "phase6-analysis"
+  },
+  {
+    "content": "Create detailed implementation plan for Phase 6 components",
+    "status": "pending",
+    "priority": "high",
+    "id": "phase6-plan"
+  },
+  {
+    "content": "Create Project struct with version migration support",
+    "status": "pending",
+    "priority": "high",
+    "id": "project-data-model"
+  },
+  {
+    "content": "Implement save project with auto-backup functionality",
+    "status": "pending",
+    "priority": "high",
+    "id": "save-functionality"
+  },
+  {
+    "content": "Implement load project with error recovery",
+    "status": "pending",
+    "priority": "high",
+    "id": "load-functionality"
+  },
+  {
+    "content": "Implement auto-save manager with debouncing",
+    "status": "pending",
+    "priority": "medium",
+    "id": "auto-save"
+  },
+  {
+    "content": "Add recent files management to File menu",
+    "status": "pending",
+    "priority": "medium",
+    "id": "recent-files"
+  },
+  {
+    "content": "Implement marker import/export CSV functionality",
+    "status": "pending",
+    "priority": "medium",
+    "id": "import-export"
+  },
+  {
+    "content": "Implement video path resolution with fallback strategies",
+    "status": "pending",
+    "priority": "high",
+    "id": "path-resolution"
+  },
+  {
+    "content": "Test all persistence functionality and verify user checklist",
+    "status": "pending",
+    "priority": "high",
+    "id": "phase6-testing"
+  }
+]

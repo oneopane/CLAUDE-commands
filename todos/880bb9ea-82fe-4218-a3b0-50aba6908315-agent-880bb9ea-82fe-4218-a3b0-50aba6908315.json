@@ -1,0 +1,44 @@
+[
+  {
+    "content": "Extend SettingsViewModel with persistent storage for all shortcut categories",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Update ShortcutsTabView to make all shortcuts editable with KeyboardShortcutRecorder",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Add save/cancel/reset buttons to ShortcutsTabView matching ScrubbingTabView pattern",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Add save/cancel/reset buttons to ScrubbingTabView for consistency",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  },
+  {
+    "content": "Update KeyboardHandlingView to use custom shortcuts from SettingsViewModel",
+    "status": "completed",
+    "priority": "high",
+    "id": "5"
+  },
+  {
+    "content": "Add comprehensive conflict detection across all shortcut types",
+    "status": "completed",
+    "priority": "medium",
+    "id": "6"
+  },
+  {
+    "content": "Test the complete implementation with various shortcut combinations",
+    "status": "completed",
+    "priority": "medium",
+    "id": "7"
+  }
+]

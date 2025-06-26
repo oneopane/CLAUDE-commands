@@ -1,0 +1,38 @@
+[
+  {
+    "content": "Update docker-compose.yml with MinIO and LocalStack services",
+    "status": "completed",
+    "priority": "high",
+    "id": "week3-docker-compose"
+  },
+  {
+    "content": "Implement S3Storage class in src/storage/s3.py",
+    "status": "completed",
+    "priority": "high",
+    "id": "week3-s3-storage"
+  },
+  {
+    "content": "Update storage factory to support S3 backend",
+    "status": "completed",
+    "priority": "medium",
+    "id": "week3-factory-update"
+  },
+  {
+    "content": "Create comprehensive tests for S3 storage backend",
+    "status": "completed",
+    "priority": "medium",
+    "id": "week3-s3-tests"
+  },
+  {
+    "content": "Add 'task dev' command and update docker-related tasks",
+    "status": "completed",
+    "priority": "medium",
+    "id": "week3-task-commands"
+  },
+  {
+    "content": "Create .env.example and update documentation",
+    "status": "completed",
+    "priority": "low",
+    "id": "week3-config-docs"
+  }
+]

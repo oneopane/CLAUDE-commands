@@ -1,0 +1,62 @@
+[
+  {
+    "content": "Remove Segment struct from Marker.swift and add dynamic segment calculation functions",
+    "status": "pending",
+    "priority": "high",
+    "id": "phase6-1"
+  },
+  {
+    "content": "Create Project.swift with versioned data model for JSON persistence",
+    "status": "pending",
+    "priority": "high",
+    "id": "phase6-2"
+  },
+  {
+    "content": "Create ProjectManager.swift to replace MarkerPersistence with comprehensive project file handling",
+    "status": "pending",
+    "priority": "high",
+    "id": "phase6-3"
+  },
+  {
+    "content": "Add auto-save functionality with debouncing and non-blocking saves",
+    "status": "pending",
+    "priority": "medium",
+    "id": "phase6-4"
+  },
+  {
+    "content": "Implement video path resolution strategy for missing/moved files",
+    "status": "pending",
+    "priority": "medium",
+    "id": "phase6-5"
+  },
+  {
+    "content": "Add recent files management with keyboard shortcuts",
+    "status": "pending",
+    "priority": "medium",
+    "id": "phase6-6"
+  },
+  {
+    "content": "Add CSV import/export functionality for markers",
+    "status": "pending",
+    "priority": "low",
+    "id": "phase6-7"
+  },
+  {
+    "content": "Integrate new persistence system into VideoPlayerViewModel and ContentView",
+    "status": "pending",
+    "priority": "high",
+    "id": "phase6-8"
+  },
+  {
+    "content": "Add comprehensive error handling and recovery mechanisms",
+    "status": "pending",
+    "priority": "medium",
+    "id": "phase6-9"
+  },
+  {
+    "content": "Test all functionality and run performance validation",
+    "status": "pending",
+    "priority": "high",
+    "id": "phase6-10"
+  }
+]

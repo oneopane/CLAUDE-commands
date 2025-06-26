@@ -1,0 +1,38 @@
+[
+  {
+    "content": "Create simplified VideoView component",
+    "status": "completed",
+    "priority": "high",
+    "id": "create-video-view"
+  },
+  {
+    "content": "Create simplified ControlsView component",
+    "status": "completed",
+    "priority": "high",
+    "id": "create-controls-view"
+  },
+  {
+    "content": "Simplify ContentView to under 100 lines",
+    "status": "completed",
+    "priority": "high",
+    "id": "simplify-contentview"
+  },
+  {
+    "content": "Consolidate 6 ViewModels into PlayerViewModel and AppViewModel",
+    "status": "pending",
+    "priority": "high",
+    "id": "consolidate-viewmodels"
+  },
+  {
+    "content": "Update deprecated AVFoundation APIs",
+    "status": "pending",
+    "priority": "medium",
+    "id": "fix-deprecations"
+  },
+  {
+    "content": "Remove unused parameters warnings",
+    "status": "pending",
+    "priority": "low",
+    "id": "fix-warnings"
+  }
+]

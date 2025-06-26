@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Implement Phase 5: Tabbed Settings Modal",
+    "status": "in_progress",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Create SettingsView with 3 tabs (Directories, Shortcuts, Scrubbing)",
+    "status": "pending",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Add keyboard shortcut to open settings (Cmd+,)",
+    "status": "pending",
+    "priority": "medium",
+    "id": "3"
+  },
+  {
+    "content": "Implement Marker Details Modal",
+    "status": "pending",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Add keyboard shortcut to open nearest marker details (Enter)",
+    "status": "pending",
+    "priority": "medium",
+    "id": "5"
+  }
+]

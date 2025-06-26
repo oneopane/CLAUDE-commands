@@ -1,0 +1,44 @@
+[
+  {
+    "content": "Map project structure and identify primary components",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Analyze complexity metrics (cyclomatic, cognitive, file/function length)",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Detect dead code (unused imports, variables, functions)",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Find code duplication patterns",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  },
+  {
+    "content": "Identify architecture and design issues",
+    "status": "completed",
+    "priority": "medium",
+    "id": "5"
+  },
+  {
+    "content": "Check for security vulnerabilities",
+    "status": "in_progress",
+    "priority": "high",
+    "id": "6"
+  },
+  {
+    "content": "Generate refactoring roadmap with prioritized recommendations",
+    "status": "pending",
+    "priority": "high",
+    "id": "7"
+  }
+]

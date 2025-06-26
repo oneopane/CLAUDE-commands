@@ -1,0 +1,38 @@
+[
+  {
+    "content": "Fix default scrubbing keys (a/r -> a/s, c/d -> c/v)",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Add frame numbers to time display when video is paused",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Implement auto-play when video loads",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Add star rating shortcuts (1-5 keys)",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Consolidate all default shortcuts into single configuration file",
+    "status": "completed",
+    "priority": "high",
+    "id": "5"
+  },
+  {
+    "content": "Add volume control shortcuts",
+    "status": "completed",
+    "priority": "high",
+    "id": "6"
+  }
+]

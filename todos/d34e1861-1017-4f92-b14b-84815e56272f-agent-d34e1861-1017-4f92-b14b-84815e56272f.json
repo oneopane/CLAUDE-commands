@@ -1,0 +1,44 @@
+[
+  {
+    "content": "Install and configure FFmpeg dependency",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Create FFmpegManager class for video operations",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Implement segment time calculation utilities",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Create SegmentExtractionManager",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Implement extraction result models",
+    "status": "completed",
+    "priority": "medium",
+    "id": "5"
+  },
+  {
+    "content": "Add file naming and output directory logic",
+    "status": "completed",
+    "priority": "medium",
+    "id": "6"
+  },
+  {
+    "content": "Create extraction error handling",
+    "status": "in_progress",
+    "priority": "medium",
+    "id": "7"
+  }
+]

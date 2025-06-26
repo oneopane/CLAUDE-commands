@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Fix SettingsViewModel.loadSettings() to load scrubbing configs from UserDefaults",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Fix ShortcutRegistry to include initial scrubbing configs in registerDefaultShortcuts()",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Update KeyboardHandlingView to ensure initial scrubbing configs are registered",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Fix VideoPlayerViewModel to load scrubbing settings from SettingsViewModel",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Test scrubbing functionality works after fixes",
+    "status": "completed",
+    "priority": "high",
+    "id": "5"
+  }
+]

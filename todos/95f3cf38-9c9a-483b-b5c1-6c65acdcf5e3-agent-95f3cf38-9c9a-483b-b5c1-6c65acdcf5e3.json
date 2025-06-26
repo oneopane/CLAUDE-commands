@@ -1,0 +1,20 @@
+[
+  {
+    "content": "Modify Video model to handle async metadata loading",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Update PlayerViewModel loading sequence to wait for metadata",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Test video loading with different video formats",
+    "status": "completed",
+    "priority": "medium",
+    "id": "3"
+  }
+]

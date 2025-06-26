@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Remove single active config concept from ScrubbingSettings",
+    "status": "completed",
+    "priority": "high",
+    "id": "remove-active-config"
+  },
+  {
+    "content": "Update KeyboardHandlingView to check all configs",
+    "status": "completed",
+    "priority": "high",
+    "id": "update-keyboard-handling"
+  },
+  {
+    "content": "Update ScrubbingTabView UI to remove Active column",
+    "status": "completed",
+    "priority": "medium",
+    "id": "update-ui"
+  },
+  {
+    "content": "Update VideoPlayerViewModel scrubbing methods",
+    "status": "completed",
+    "priority": "medium",
+    "id": "update-viewmodel"
+  },
+  {
+    "content": "Test multiple active configurations",
+    "status": "completed",
+    "priority": "high",
+    "id": "test-multiple-configs"
+  }
+]

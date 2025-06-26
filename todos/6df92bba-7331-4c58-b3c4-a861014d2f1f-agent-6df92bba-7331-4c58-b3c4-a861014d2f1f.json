@@ -1,0 +1,20 @@
+[
+  {
+    "content": "Fix deprecated onChange modifier in ContentView.swift",
+    "status": "completed",
+    "priority": "medium",
+    "id": "1"
+  },
+  {
+    "content": "Fix unused videoComposition variable in VideoMemoryManager.swift",
+    "status": "completed",
+    "priority": "medium",
+    "id": "2"
+  },
+  {
+    "content": "Fix unused preferredBufferDuration constant in VideoMemoryManager.swift",
+    "status": "completed",
+    "priority": "medium",
+    "id": "3"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Add explicit player pause in loadVideo() before cleanup",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Clean up performance monitoring for old player",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Clear cancellables properly before new observers",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Cancel pending seeks from old SeekManager",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  },
+  {
+    "content": "Test video navigation to ensure single playback",
+    "status": "completed",
+    "priority": "high",
+    "id": "5"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "content": "Connect Cmd+S and Cmd+O keyboard shortcuts to save/load functionality",
+    "status": "completed",
+    "priority": "high",
+    "id": "phase6-keyboard-integration"
+  },
+  {
+    "content": "Add File menu commands in SwiftMediaApp.swift",
+    "status": "completed",
+    "priority": "high",
+    "id": "phase6-menu-commands"
+  },
+  {
+    "content": "Test performance with 10,000+ markers and verify <500ms requirement",
+    "status": "completed",
+    "priority": "medium",
+    "id": "phase6-performance-testing"
+  },
+  {
+    "content": "Add progress indicators and test edge cases",
+    "status": "completed",
+    "priority": "medium",
+    "id": "phase6-polish"
+  },
+  {
+    "content": "Update phase-6.md and roadmap-outline.md documentation",
+    "status": "completed",
+    "priority": "low",
+    "id": "phase6-documentation"
+  },
+  {
+    "content": "Commit all Phase 6 changes",
+    "status": "completed",
+    "priority": "low",
+    "id": "phase6-commit"
+  },
+  {
+    "content": "REFACTOR TODO: Consolidate marker saving - use only immediate persistence, remove legacy MarkerPersistence",
+    "status": "pending",
+    "priority": "medium",
+    "id": "refactor-marker-persistence"
+  }
+]

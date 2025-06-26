@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Fix markers didSet in VideoPlayerViewModel - defer ProjectManager update",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Fix segments computed property - move cache invalidation out of getter",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Remove manual objectWillChange.send() calls in VideoPlayerViewModel",
+    "status": "completed",
+    "priority": "medium",
+    "id": "3"
+  },
+  {
+    "content": "Replace onAppear with task in ContentView for setupManagers",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  },
+  {
+    "content": "Replace onAppear with task in MarkerDetailsView for loadFrameNumber",
+    "status": "completed",
+    "priority": "medium",
+    "id": "5"
+  }
+]

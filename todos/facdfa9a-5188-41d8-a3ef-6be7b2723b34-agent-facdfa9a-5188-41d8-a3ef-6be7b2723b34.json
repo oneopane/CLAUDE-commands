@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Analyze and scope the feature request",
+    "status": "completed",
+    "priority": "high",
+    "id": "analyze-feature"
+  },
+  {
+    "content": "Gather plan metadata (branch type, naming, classification)",
+    "status": "completed",
+    "priority": "high",
+    "id": "gather-metadata"
+  },
+  {
+    "content": "Break down feature into actionable tasks with time estimates",
+    "status": "completed",
+    "priority": "high",
+    "id": "break-down-tasks"
+  },
+  {
+    "content": "Generate properly formatted plan document",
+    "status": "completed",
+    "priority": "high",
+    "id": "generate-plan"
+  },
+  {
+    "content": "Validate plan against requirements and create file",
+    "status": "completed",
+    "priority": "high",
+    "id": "validate-and-create"
+  }
+]

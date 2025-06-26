@@ -1,0 +1,44 @@
+[
+  {
+    "content": "Replace custom VideoPlayerView with AVKit's AVPlayerView",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Add comprehensive error handling with PlayerError enum",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Optimize player for large video files (4K+)",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Update time observer to ensure 30 FPS precision",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  },
+  {
+    "content": "Improve file picker to explicitly support MP4 and MOV",
+    "status": "completed",
+    "priority": "low",
+    "id": "5"
+  },
+  {
+    "content": "Add basic performance monitoring",
+    "status": "completed",
+    "priority": "low",
+    "id": "6"
+  },
+  {
+    "content": "Review window fullscreen behavior",
+    "status": "completed",
+    "priority": "low",
+    "id": "7"
+  }
+]

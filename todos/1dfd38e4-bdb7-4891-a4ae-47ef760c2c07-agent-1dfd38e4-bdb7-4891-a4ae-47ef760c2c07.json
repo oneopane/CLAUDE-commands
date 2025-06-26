@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Implement volume control shortcuts (increase/decrease)",
+    "status": "pending",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Add frame number display when video is paused",
+    "status": "pending",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Consolidate all shortcuts into a single configuration",
+    "status": "pending",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Auto-play video when loaded",
+    "status": "pending",
+    "priority": "medium",
+    "id": "4"
+  },
+  {
+    "content": "Implement rating shortcuts (1-5 keys)",
+    "status": "pending",
+    "priority": "high",
+    "id": "5"
+  }
+]

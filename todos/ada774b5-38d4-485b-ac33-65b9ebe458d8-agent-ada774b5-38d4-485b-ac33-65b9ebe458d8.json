@@ -1,0 +1,38 @@
+[
+  {
+    "content": "Fix unused 'defaultKey' variable in ShortcutDefinition.swift:86",
+    "status": "completed",
+    "priority": "medium",
+    "id": "1"
+  },
+  {
+    "content": "Fix unused variables in ShortcutType.swift:35,41",
+    "status": "completed",
+    "priority": "medium",
+    "id": "2"
+  },
+  {
+    "content": "Fix Main actor isolation warning in VideoPlayerViewModel.swift:237",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Remove unnecessary self captures in VideoPlayerViewModel.swift:297,610,631",
+    "status": "completed",
+    "priority": "low",
+    "id": "4"
+  },
+  {
+    "content": "Remove unused pixelBufferAttributes in VideoPlayerViewModel.swift:323",
+    "status": "completed",
+    "priority": "low",
+    "id": "5"
+  },
+  {
+    "content": "Update deprecated onChange API in KeyboardHandlingView.swift:61",
+    "status": "completed",
+    "priority": "medium",
+    "id": "6"
+  }
+]

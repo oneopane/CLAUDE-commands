@@ -1,0 +1,62 @@
+[
+  {
+    "content": "Create Project.swift with data model and version support",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Create ProjectErrors.swift with comprehensive error types",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Create ProjectManager.swift with save/load logic",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Create AutoSaveManager.swift with debounced auto-save",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  },
+  {
+    "content": "Create RecentProjectsManager.swift for recent files",
+    "status": "completed",
+    "priority": "medium",
+    "id": "5"
+  },
+  {
+    "content": "Update ContentView.swift with menu integration",
+    "status": "completed",
+    "priority": "medium",
+    "id": "6"
+  },
+  {
+    "content": "Create ImportExportManager.swift for CSV support",
+    "status": "completed",
+    "priority": "low",
+    "id": "7"
+  },
+  {
+    "content": "Update VideoPlayerViewModel for project integration",
+    "status": "completed",
+    "priority": "medium",
+    "id": "8"
+  },
+  {
+    "content": "Build and test the implementation",
+    "status": "completed",
+    "priority": "high",
+    "id": "9"
+  },
+  {
+    "content": "Update roadmap completion status",
+    "status": "in_progress",
+    "priority": "low",
+    "id": "10"
+  }
+]

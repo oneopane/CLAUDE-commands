@@ -1,0 +1,50 @@
+[
+  {
+    "content": "Create Marker.swift data model with timestamp, rating, label properties",
+    "status": "completed",
+    "priority": "high",
+    "id": "create-marker-model"
+  },
+  {
+    "content": "Create Segment.swift data model for marker ranges",
+    "status": "completed",
+    "priority": "high",
+    "id": "create-segment-model"
+  },
+  {
+    "content": "Implement MarkerViewModel with marker management and segment generation",
+    "status": "completed",
+    "priority": "high",
+    "id": "create-marker-viewmodel"
+  },
+  {
+    "content": "Create MarkerView component for individual marker display",
+    "status": "completed",
+    "priority": "medium",
+    "id": "create-marker-view"
+  },
+  {
+    "content": "Update ProgressBarView to display markers and segments",
+    "status": "completed",
+    "priority": "high",
+    "id": "update-progress-bar"
+  },
+  {
+    "content": "Implement KeyboardShortcut utility for global shortcuts",
+    "status": "completed",
+    "priority": "medium",
+    "id": "create-keyboard-shortcuts"
+  },
+  {
+    "content": "Update ContentView to integrate MarkerViewModel",
+    "status": "completed",
+    "priority": "medium",
+    "id": "integrate-content-view"
+  },
+  {
+    "content": "Test all Phase 2 verification steps",
+    "status": "completed",
+    "priority": "medium",
+    "id": "test-verification"
+  }
+]

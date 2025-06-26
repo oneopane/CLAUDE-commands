@@ -1,0 +1,20 @@
+[
+  {
+    "content": "Analyze feasibility of using IINA for the media player project",
+    "status": "in_progress",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Research alternative video playback solutions for macOS",
+    "status": "pending",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Evaluate AVFoundation for direct implementation",
+    "status": "pending",
+    "priority": "high",
+    "id": "3"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "content": "Check for required Branch specification",
+    "status": "completed",
+    "priority": "high",
+    "id": "validate-1"
+  },
+  {
+    "content": "Check for required Title",
+    "status": "completed",
+    "priority": "high",
+    "id": "validate-2"
+  },
+  {
+    "content": "Check for required Metadata section",
+    "status": "completed",
+    "priority": "high",
+    "id": "validate-3"
+  },
+  {
+    "content": "Check for checkbox tasks",
+    "status": "completed",
+    "priority": "high",
+    "id": "validate-4"
+  },
+  {
+    "content": "Check for progress tracking",
+    "status": "completed",
+    "priority": "medium",
+    "id": "validate-5"
+  },
+  {
+    "content": "Apply fixes and create backup",
+    "status": "completed",
+    "priority": "high",
+    "id": "validate-6"
+  }
+]

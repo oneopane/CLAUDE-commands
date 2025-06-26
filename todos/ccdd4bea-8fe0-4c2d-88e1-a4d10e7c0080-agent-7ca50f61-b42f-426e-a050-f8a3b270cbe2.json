@@ -1,0 +1,50 @@
+[
+  {
+    "content": "Analyze VideoPlayerViewModel.swift for performance bottlenecks and memory issues",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Analyze VideoPlayerView.swift and NSViewRepresentable implementation",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Analyze SeekManager.swift for frame accuracy and performance",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Analyze VideoDirectoryManager.swift for efficiency and error handling",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  },
+  {
+    "content": "Analyze UI components (ProgressBarView, VideoLoadingView)",
+    "status": "completed",
+    "priority": "medium",
+    "id": "5"
+  },
+  {
+    "content": "Analyze CMTime extensions for accuracy and performance",
+    "status": "completed",
+    "priority": "medium",
+    "id": "6"
+  },
+  {
+    "content": "Use ast-grep to find complex patterns and issues",
+    "status": "completed",
+    "priority": "high",
+    "id": "7"
+  },
+  {
+    "content": "Create analysis directory and write findings",
+    "status": "completed",
+    "priority": "high",
+    "id": "8"
+  }
+]

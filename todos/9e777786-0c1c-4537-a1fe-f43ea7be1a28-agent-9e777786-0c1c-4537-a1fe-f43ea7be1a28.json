@@ -1,0 +1,62 @@
+[
+  {
+    "content": "Create detailed implementation plan for Phase 2",
+    "status": "completed",
+    "priority": "high",
+    "id": "phase2-plan"
+  },
+  {
+    "content": "Remove default controls and current overlay UI",
+    "status": "pending",
+    "priority": "high",
+    "id": "remove-controls"
+  },
+  {
+    "content": "Create ProgressBarView component with basic structure",
+    "status": "pending",
+    "priority": "high",
+    "id": "create-progressbar"
+  },
+  {
+    "content": "Implement progress visualization with fill rectangle",
+    "status": "pending",
+    "priority": "high",
+    "id": "progress-visual"
+  },
+  {
+    "content": "Add centered time display overlay (HH:MM:SS / HH:MM:SS)",
+    "status": "pending",
+    "priority": "high",
+    "id": "time-display"
+  },
+  {
+    "content": "Implement click-to-seek functionality",
+    "status": "pending",
+    "priority": "high",
+    "id": "click-seek"
+  },
+  {
+    "content": "Add drag gesture for scrubbing support",
+    "status": "pending",
+    "priority": "high",
+    "id": "drag-scrub"
+  },
+  {
+    "content": "Apply visual polish (shadow, corners, hover states)",
+    "status": "pending",
+    "priority": "medium",
+    "id": "visual-polish"
+  },
+  {
+    "content": "Add temporary keyboard navigation (arrows)",
+    "status": "pending",
+    "priority": "medium",
+    "id": "keyboard-nav"
+  },
+  {
+    "content": "Test all Phase 2 functionality",
+    "status": "pending",
+    "priority": "high",
+    "id": "test-phase2"
+  }
+]

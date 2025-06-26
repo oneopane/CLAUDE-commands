@@ -1,0 +1,26 @@
+[
+  {
+    "content": "Add Export Markers menu item to File menu",
+    "status": "completed",
+    "priority": "high",
+    "id": "add-export-menu"
+  },
+  {
+    "content": "Add Import Markers menu item to File menu",
+    "status": "completed",
+    "priority": "high",
+    "id": "add-import-menu"
+  },
+  {
+    "content": "Add CSV export format alongside JSON export",
+    "status": "completed",
+    "priority": "medium",
+    "id": "add-csv-export"
+  },
+  {
+    "content": "Add export filtering by rating and label",
+    "status": "pending",
+    "priority": "low",
+    "id": "add-export-filtering"
+  }
+]

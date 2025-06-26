@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Remove excessive keyboard event logging from KeyboardShortcut.swift",
+    "status": "completed",
+    "priority": "high",
+    "id": "remove_keyboard_logging"
+  },
+  {
+    "content": "Remove verbose debug logging from NavigationViewModel.swift",
+    "status": "completed",
+    "priority": "high",
+    "id": "remove_navigation_logging"
+  },
+  {
+    "content": "Fix SwiftUI publishing changes warnings in PlayerViewModel.swift",
+    "status": "completed",
+    "priority": "high",
+    "id": "fix_publishing_warnings"
+  },
+  {
+    "content": "Review and optimize time observer callback patterns",
+    "status": "completed",
+    "priority": "medium",
+    "id": "optimize_time_observer"
+  },
+  {
+    "content": "Test that all features work correctly after logging cleanup",
+    "status": "completed",
+    "priority": "medium",
+    "id": "test_functionality"
+  }
+]
