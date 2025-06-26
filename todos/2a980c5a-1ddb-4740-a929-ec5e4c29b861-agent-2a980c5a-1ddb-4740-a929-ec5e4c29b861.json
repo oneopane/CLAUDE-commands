@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Create extraction progress view - Phase 2",
+    "status": "completed",
+    "priority": "medium",
+    "id": "extraction-1"
+  },
+  {
+    "content": "Add extraction completion feedback - Phase 2",
+    "status": "completed",
+    "priority": "medium",
+    "id": "extraction-2"
+  },
+  {
+    "content": "Implement keyboard shortcuts for extraction modal - Phase 2",
+    "status": "completed",
+    "priority": "low",
+    "id": "extraction-3"
+  },
+  {
+    "content": "Create RatingBasedExtractionView - Phase 3",
+    "status": "pending",
+    "priority": "medium",
+    "id": "extraction-4"
+  },
+  {
+    "content": "Implement MultiSelectExtractionView - Phase 3",
+    "status": "pending",
+    "priority": "medium",
+    "id": "extraction-5"
+  }
+]

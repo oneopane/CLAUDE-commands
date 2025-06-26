@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Create RatingBasedExtractionView - Rating threshold picker, preview of segments, batch controls",
+    "status": "completed",
+    "priority": "medium",
+    "id": "1"
+  },
+  {
+    "content": "Implement MultiSelectExtractionView - Segment list with checkboxes, select all/none",
+    "status": "in_progress",
+    "priority": "medium",
+    "id": "2"
+  },
+  {
+    "content": "Add batch extraction support to SegmentExtractionManager",
+    "status": "pending",
+    "priority": "medium",
+    "id": "3"
+  },
+  {
+    "content": "Create segment filtering logic in Array+Segment extension",
+    "status": "pending",
+    "priority": "medium",
+    "id": "4"
+  },
+  {
+    "content": "Implement batch result summary view",
+    "status": "pending",
+    "priority": "low",
+    "id": "5"
+  }
+]

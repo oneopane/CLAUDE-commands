@@ -1,7 +1,7 @@
 [
   {
     "content": "Create ExtractionModalView with tabs - Use existing modal base design, tab view for different extraction types, default to single segment tab",
-    "status": "in_progress",
+    "status": "completed",
     "priority": "high",
     "id": "extraction-modal-view"
   }

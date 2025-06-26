@@ -1,0 +1,26 @@
+[
+  {
+    "content": "Implement SingleSegmentExtractionView",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Create extraction progress view",
+    "status": "in_progress",
+    "priority": "medium",
+    "id": "2"
+  },
+  {
+    "content": "Add extraction completion feedback",
+    "status": "pending",
+    "priority": "medium",
+    "id": "3"
+  },
+  {
+    "content": "Implement keyboard shortcuts for extraction modal",
+    "status": "pending",
+    "priority": "low",
+    "id": "4"
+  }
+]

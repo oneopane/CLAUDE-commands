@@ -188,11 +188,14 @@ Example improvements:
 │   ├── COMMAND-BEST-PRACTICES.md   # Best practices guide
 │   └── PLANNING-REQUIREMENTS.md    # Plan validation spec
 ├── commands/                    # Global command collection
-│   ├── linear/                  # Linear workflow commands
-│   │   └── README.md           # Linear documentation
-│   ├── planning/               # Planning commands
-│   │   └── README.md          # Planning documentation
-│   └── [various command files]
+│   ├── analysis/               # Code analysis and review commands
+│   ├── development/            # Development workflow commands
+│   ├── git-workflow/           # Git-related commands
+│   ├── linear/                 # Linear workflow commands
+│   │   └── README.md          # Linear documentation
+│   ├── meta-commands/          # Command management commands
+│   └── planning/               # Planning commands
+│       └── README.md          # Planning documentation
 ├── tools/                       # CLI tools and utilities
 │   └── README.md               # Tools documentation
 ├── projects/                    # Project session data

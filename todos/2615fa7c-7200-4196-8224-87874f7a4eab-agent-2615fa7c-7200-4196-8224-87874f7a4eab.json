@@ -1,50 +1,38 @@
 [
   {
-    "content": "Delete EXAMPLE-UPDATE-COMMAND.md",
+    "content": "Create directory structure for organizing commands",
     "status": "completed",
     "priority": "high",
-    "id": "delete-example"
+    "id": "create-dirs"
   },
   {
-    "content": "Rename planning-requirements.md to PLANNING-REQUIREMENTS.md",
-    "status": "completed",
-    "priority": "high",
-    "id": "rename-planning-req"
-  },
-  {
-    "content": "Check if root README.md exists",
+    "content": "Move git-related commands to git-workflow directory",
     "status": "completed",
     "priority": "medium",
-    "id": "check-root-readme"
+    "id": "move-git-commands"
   },
   {
-    "content": "Merge README-COMMAND-CREATION.md content into root README.md",
+    "content": "Move analysis commands to analysis directory",
     "status": "completed",
     "priority": "medium",
-    "id": "merge-command-creation"
+    "id": "move-analysis-commands"
   },
   {
-    "content": "Delete the original README-COMMAND-CREATION.md file",
+    "content": "Move development commands to development directory",
     "status": "completed",
-    "priority": "low",
-    "id": "delete-command-creation"
+    "priority": "medium",
+    "id": "move-dev-commands"
   },
   {
-    "content": "Find references to moved files using rg",
+    "content": "Move command management commands to meta-commands directory",
     "status": "completed",
-    "priority": "high",
-    "id": "find-references"
+    "priority": "medium",
+    "id": "move-meta-commands"
   },
   {
-    "content": "Update paths to moved files",
-    "status": "completed",
-    "priority": "high",
-    "id": "update-references"
-  },
-  {
-    "content": "Stage all changes in git",
+    "content": "Stage and commit changes",
     "status": "in_progress",
     "priority": "low",
-    "id": "stage-changes"
+    "id": "stage-commit"
   }
 ]
