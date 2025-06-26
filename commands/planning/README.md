@@ -6,7 +6,7 @@ This directory contains custom Claude Code commands for managing and executing m
 
 These commands reference a shared requirements specification located at:
 ```
-/Users/ojash/.claude/commands/CLAUDE-commands/planning/planning-requirements.md
+/Users/ojash/.claude/docs/PLANNING-REQUIREMENTS.md
 ```
 
 **If you're using these commands on a different machine or have a different username**, you'll need to update this path in:
@@ -18,7 +18,7 @@ Look for lines containing `@/Users/ojash/...` and update them to your local path
 ## Commands Overview
 
 ### Planning Requirements
-- **File**: `planning-requirements.md`
+- **File**: `PLANNING-REQUIREMENTS.md`
 - **Purpose**: Authoritative specification for what constitutes a valid planning document
 - **Usage**: Referenced by validation commands to ensure consistency
 
@@ -44,12 +44,12 @@ Plans must include:
 - At least one checkbox task
 - (Recommended) Progress tracking section
 
-See `planning-requirements.md` for full specification.
+See `PLANNING-REQUIREMENTS.md` for full specification.
 
 ## Contributing
 
 When updating requirements:
-1. Edit `planning-requirements.md` 
+1. Edit `PLANNING-REQUIREMENTS.md` 
 2. Ensure both validation commands still reference it correctly
 3. Test that validation behaves as expected
 

@@ -5,7 +5,7 @@ description: Validate plan documents and ensure they meet requirements for autom
 
 Validate that a markdown plan document meets all requirements for automated implementation, and interactively fix any issues.
 
-Requirements are defined in: @/Users/ojash/.claude/commands/CLAUDE-commands/planning/planning-requirements.md
+Requirements are defined in: @/Users/ojash/.claude/docs/PLANNING-REQUIREMENTS.md
 
 ## Required Plan Format
 

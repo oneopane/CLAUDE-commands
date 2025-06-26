@@ -25,13 +25,13 @@
   },
   {
     "content": "Set up tracking with Linear IDs and context/current.json",
-    "status": "in_progress",
+    "status": "completed",
     "priority": "medium",
     "id": "5"
   },
   {
     "content": "Update index.md with navigation structure",
-    "status": "pending",
+    "status": "in_progress",
     "priority": "medium",
     "id": "6"
   }

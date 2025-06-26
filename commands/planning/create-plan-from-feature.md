@@ -5,7 +5,7 @@ description: Interactively create a detailed implementation plan from a feature 
 
 Create a comprehensive implementation plan from a feature description that follows all planning requirements defined in:
 
-@/Users/ojash/.claude/commands/CLAUDE-commands/planning/planning-requirements.md
+@/Users/ojash/.claude/docs/PLANNING-REQUIREMENTS.md
 
 This command will guide you through creating a properly structured plan document with all mandatory sections, recommended organization, and optional metadata for enhanced tracking.
 
@@ -355,7 +355,7 @@ After creation, I'll provide:
 - MUST validate branch naming follows pattern: `<type>/<descriptive-name>`
 - MUST use today's date for Created field
 - MUST generate properly formatted markdown
-- MUST validate plan against planning-requirements.md before creation
+- MUST validate plan against PLANNING-REQUIREMENTS.md before creation
 - SHOULD break features into 0.5-4 hour tasks
 - SHOULD organize tasks into logical phases
 - SHOULD include time estimates for better tracking

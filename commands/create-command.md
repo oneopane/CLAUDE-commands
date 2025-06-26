@@ -6,7 +6,7 @@ description: Interactively create a new Claude Code command following best pract
 Create a new Claude Code command through guided interactive process.
 
 This command helps you create well-structured commands following the established best practices defined in:
-@/Users/ojash/.claude/commands/CLAUDE-commands/COMMAND-BEST-PRACTICES.md
+@/Users/ojash/.claude/docs/COMMAND-BEST-PRACTICES.md
 
 You'll be asked to choose whether to create the command in:
 - Project directory (`.claude/commands/`) for project-specific commands
@@ -67,7 +67,7 @@ Let's design your new command together:
 
 Based on your command type, I'll ensure it follows these patterns:
 
-@/Users/ojash/.claude/commands/CLAUDE-commands/COMMAND-BEST-PRACTICES.md
+@/Users/ojash/.claude/docs/COMMAND-BEST-PRACTICES.md
 
 ### Universal Best Practices
 - [ ] Clear frontmatter with allowed-tools and description
@@ -261,7 +261,7 @@ After gathering all requirements, I'll:
    - Test the command with sample data
    - Add to your workflow documentation
    - Consider creating related commands
-   - Review COMMAND-BEST-PRACTICES.md for additional patterns
+   - Review docs/COMMAND-BEST-PRACTICES.md for additional patterns
    - [If project] Commit the new command to version control
    ```
 

@@ -5,7 +5,7 @@ description: Validate plan documents and analyze them for parallel execution opp
 
 Validate a markdown plan document, ensure it meets requirements for automated implementation, and analyze tasks to create an optimal parallelization strategy.
 
-Requirements are defined in: @/Users/ojash/.claude/commands/CLAUDE-commands/planning/planning-requirements.md
+Requirements are defined in: @/Users/ojash/.claude/docs/PLANNING-REQUIREMENTS.md
 
 ## Phase 1: Standard Validation
 

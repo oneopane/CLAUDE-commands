@@ -6,7 +6,7 @@ description: Analyze and update existing commands to follow best practices
 Analyze an existing Claude Code command and interactively update it to follow best practices.
 
 This command helps modernize older commands or improve commands that were created without following the patterns in:
-@/Users/ojash/.claude/commands/CLAUDE-commands/COMMAND-BEST-PRACTICES.md
+@/Users/ojash/.claude/docs/COMMAND-BEST-PRACTICES.md
 
 ## How It Works
 
@@ -310,7 +310,7 @@ The `/user:update-command` helps maintain command quality over time by:
 Works together with:
 - `/user:create-command` - Creates new commands with best practices built in
 - `/user:search-commands` - Finds commands that might need updating
-- `COMMAND-BEST-PRACTICES.md` - Defines the standards to follow
+- `docs/COMMAND-BEST-PRACTICES.md` - Defines the standards to follow
 
 Perfect for:
 - Modernizing older commands
@@ -326,7 +326,7 @@ Perfect for:
 - MUST preserve core functionality of the command
 - MUST show diff preview before applying changes
 - MUST validate updated command still works
-- MUST reference COMMAND-BEST-PRACTICES.md for patterns
+- MUST reference docs/COMMAND-BEST-PRACTICES.md for patterns
 - SHOULD analyze all aspects of best practices
 - SHOULD provide specific, actionable improvements
 - SHOULD allow skipping any suggested change

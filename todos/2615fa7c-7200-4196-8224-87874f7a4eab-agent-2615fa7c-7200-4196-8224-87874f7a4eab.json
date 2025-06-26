@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "content": "Delete EXAMPLE-UPDATE-COMMAND.md",
+    "status": "completed",
+    "priority": "high",
+    "id": "delete-example"
+  },
+  {
+    "content": "Rename planning-requirements.md to PLANNING-REQUIREMENTS.md",
+    "status": "completed",
+    "priority": "high",
+    "id": "rename-planning-req"
+  },
+  {
+    "content": "Check if root README.md exists",
+    "status": "completed",
+    "priority": "medium",
+    "id": "check-root-readme"
+  },
+  {
+    "content": "Merge README-COMMAND-CREATION.md content into root README.md",
+    "status": "completed",
+    "priority": "medium",
+    "id": "merge-command-creation"
+  },
+  {
+    "content": "Delete the original README-COMMAND-CREATION.md file",
+    "status": "completed",
+    "priority": "low",
+    "id": "delete-command-creation"
+  },
+  {
+    "content": "Find references to moved files using rg",
+    "status": "completed",
+    "priority": "high",
+    "id": "find-references"
+  },
+  {
+    "content": "Update paths to moved files",
+    "status": "completed",
+    "priority": "high",
+    "id": "update-references"
+  },
+  {
+    "content": "Stage all changes in git",
+    "status": "in_progress",
+    "priority": "low",
+    "id": "stage-changes"
+  }
+]
